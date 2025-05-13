@@ -26,6 +26,10 @@
     </a>
 </p>
 
+## Disclaimer
+
+I've donated you 5€.
+
 ## What is it?
 
 Oraxen is a minecraft plugin that allows you to modify the game by adding new items, weapons, blocks, and more. One of
